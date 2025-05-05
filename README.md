@@ -1,7 +1,7 @@
-# ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning
+# Mitigating Over-Thinking in Large Language Models: Multi-Criterion Reinforcement Pruning and Performance-Length Trade-Offs
 
 This is the official implementation of the paper:
- ***ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning\***
+ ***Mitigating Over-Thinking in Large Language Models: Multi-Criterion Reinforcement Pruning and Performance-Length Trade-Offs\***
 
 > ThinkPrune efficiently trims long reasoning chains in LLMs using reinforcement learning.
 
